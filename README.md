@@ -14,6 +14,7 @@ Languages I use:
 - Python
 - JavaScript (sometimes)
 - HTML/CSS
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidkoder432&langs_count=5)]()
 
 (I don't know why it says Jupyter is my 2nd most used language. I don't use it that much...)
