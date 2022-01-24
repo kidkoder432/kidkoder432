@@ -14,7 +14,9 @@ Languages I use:
 - Python
 - JavaScript (sometimes)
 - HTML/CSS
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidkoder432&langs_count=5)]()
 
+(I don't know why it says Jupyter is my 2nd most used language. I don't use it that much...)
 I'd like to learn C++, Java, or Unity someday.
 I'm also terible at JS, so help is greatly appreciated :heart:
 
@@ -22,6 +24,9 @@ How to reach me:
 - Email (findprajju@gmail.com)
 - GitHub (kidkoder432)
 - Discord (@kidkoder432#3317)
+
+
+
 <!--
 **kidkoder432/kidkoder432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
