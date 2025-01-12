@@ -1,21 +1,11 @@
 # kidkoder432
-Hi!
-My name is Prajwal Agrawal. I'm a 15-year-old software developer, but I haven't been hired yet. So I'm just some noob on GitHub who likes to code.
-
-People I follow:
-
-- [Sebastian Lague](https://github.com/SebLague)
-- [My friend Paradox](https://github.com/ProgrammingParadox)
-- [Rishabh](https://github.com/rishbobb)
-
-My Code Hub: https://kidkoder432.github.io
+Hi! My name is Prajwal Agrawal. 
+I use code to 📚**explore academic interests**, 🛠️**solve real-world problems**, and 🫂**contribute to my community**. 
 
 Languages I use: 
 - Python
-- C++
-- Java
-- JavaScript 
-- HTML/CSS
+- C++ (Arduino)
+- HTML/CSS/JavaScript
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidkoder432&langs_count=5)]()
 
